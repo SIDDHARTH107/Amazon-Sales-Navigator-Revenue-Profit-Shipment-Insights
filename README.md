@@ -1,1 +1,1 @@
-# Amazon-Sales-Navigator-Revenue-Profit-Shipment-Insights
+# Amazon Sales Navigator: Revenue, Profit, & Shipment Insights
