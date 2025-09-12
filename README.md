@@ -37,7 +37,7 @@ This Tableau dashboard was designed to:
 
 ## Business Problem
 
-Sometimes stakeholders requested a way to tackle the business requirements with the help of reports and dashboards:
+Sometimes stakeholders request a way to tackle the business requirements with the help of reports and dashboards:
 
 - Analyze profits by regions and countries
 
@@ -56,3 +56,17 @@ This required creating KPIs such as:
 - Orders per year
 
 - Shipment days = Shipment Date – Order Date
+
+## Key Features
+
+- __KPI Tracking:__ Profit, Revenue, Shipment Days, Units Sold
+
+- __Profit Analysis:__ By regions (bar chart) & by countries (map)
+
+- __Sales Channel Analysis:__ Online vs Offline revenue split
+
+- __Orders Analysis:__ Orders per year (line chart), orders by priority (bar chart)
+
+- __Shipment Analysis:__ Shipment days vs revenue correlation
+
+- __Interactivity:__ Click-to-filter across charts
