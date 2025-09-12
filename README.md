@@ -70,3 +70,23 @@ This required creating KPIs such as:
 - __Shipment Analysis:__ Shipment days vs revenue correlation
 
 - __Interactivity:__ Click-to-filter across charts
+
+## Industrial Methodology
+
+- __Business Requirement Documentation or Requirement Gathering:__ Translating business objectives into KPIs
+
+- __Wireframing:__ Blueprint of dashboard layout before building
+
+- __Data Preparation:__ Creating new KPIs (profit, shipment days, order count)
+
+- __Visualization Design:__
+
+a) Bar charts for regional comparisons
+
+b) Maps for country-level profit analysis
+
+c) Line charts for time-based analysis
+
+d) Donut/Pie charts for <=3 or 4 categories
+
+- __Dashboard Development:__ Interactive filters, clean labels (no abbreviations), intuitive ordering, and then deployment or publishing to end users
