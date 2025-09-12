@@ -21,7 +21,7 @@
 
 ## Project Overview
 
-This dashboard was designed to:
+This Tableau dashboard was designed to:
 
 - Track profits by region and country
 
