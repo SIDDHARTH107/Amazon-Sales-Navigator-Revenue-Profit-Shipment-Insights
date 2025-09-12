@@ -90,3 +90,15 @@ c) Line charts for time-based analysis
 d) Donut/Pie charts for <=3 or 4 categories
 
 - __Dashboard Development:__ Interactive filters, clean labels (no abbreviations), intuitive ordering, and then deployment or publishing to end users
+
+## Some sample business insights from this dashboard:
+
+- Revenue drops when shipment times increase
+
+- Offline channels generate higher revenue than online
+
+- Sub-Saharan Africa & Europe are top-performing regions
+
+- Orders peaked in 2012 but gradually declined after 2014
+
+- Shipment delays strongly correlate with reduced revenue
