@@ -34,3 +34,25 @@ This dashboard was designed to:
 - Identify top-performing and underperforming regions
 
 - Provide drill-down capability for interactive exploration
+
+## Business Problem
+
+Sometimes stakeholders requested a way to tackle the business requirements with the help of reports and dashboards:
+
+- Analyze profits by regions and countries
+
+- Understand channel revenue distribution
+
+- Track orders per year and by priority
+
+- Compare shipment days vs revenue trends
+
+- Identify key drivers of sales performance
+
+This required creating KPIs such as:
+
+- Profit (Revenue – Cost)
+
+- Orders per year
+
+- Shipment days = Shipment Date – Order Date
