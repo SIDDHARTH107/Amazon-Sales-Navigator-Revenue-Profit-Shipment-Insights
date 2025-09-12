@@ -18,3 +18,19 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1871" height="737" alt="image" src="https://github.com/user-attachments/assets/9908348c-ee33-4d91-9fa8-f6c25b66e814" />
+
+## Project Overview
+
+This dashboard was designed to:
+
+- Track profits by region and country
+
+- Analyze revenue by sales channel (online vs offline)
+
+- Visualize orders per year & by priority
+
+- Measure average shipment days
+
+- Identify top-performing and underperforming regions
+
+- Provide drill-down capability for interactive exploration
